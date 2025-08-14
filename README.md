@@ -1,2 +1,2 @@
 # tiny framework
-minimal framework for tinkering
+minimal framework win32 tinkering
