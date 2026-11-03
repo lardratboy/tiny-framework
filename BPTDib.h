@@ -362,7 +362,7 @@ namespace BPT {
 
 		// --------------------------------------------------------------------
 
-		template< class T > CreateCompatible(
+		template< class T > bool CreateCompatible(
 			T & bitmap
 			,const int width
 			,const int height
